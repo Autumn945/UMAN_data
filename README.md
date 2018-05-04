@@ -1,6 +1,7 @@
 # UMAN_data
-The data of UMAN
-Learning Sequential Correlation for User Generated Textual Content Popularity Prediction
+- The data of UMAN
+- Learning Sequential Correlation for User Generated Textual Content Popularity Prediction
+- link: xxx
 
 # Detail
 - JSON format.
