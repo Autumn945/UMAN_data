@@ -14,5 +14,5 @@
     - time: Timestamps.
     - text: word id sequence.
   - nb_words, nb_items, nb_users: number of words/data/users
-  - word_dict: mapping of word to word id
-  - raw_text: raw text
+  - word_dict: mapping of word to word id
+  - raw_text: raw text
